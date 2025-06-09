@@ -1,7 +1,5 @@
-<!-- README.md -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=console.log('Bem-vindo%2C Matheus');aprendendo+Java%2C+Python%2C+MySQL...;Power+BI+e+automação+em+curso;digite+'cd+projetos'+e+enter" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/L13Qzg3tytJPlq0wqI/giphy.gif" alt="Typing animation" width="435" />
 </p>
 
 <p align="center">
