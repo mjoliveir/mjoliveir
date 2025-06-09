@@ -1,41 +1,28 @@
-## 🧱 Matheus' GitHub World 🌍
-> "Bloco por bloco, construindo conhecimento."
+## 📜 Diário do Explorador: MatheusCraft
 
-![Minecraft Banner](https://media.giphy.com/media/N2561U9yznzOs/giphy.gif)
+> Dia 2115 da jornada: Acordei no bioma da Análise de Dados. Céu limpo. Café forte. IDE aberta.
 
-🎮 Bem-vindo ao meu servidor GitHub! Aqui é onde eu minero ideias, planto conhecimento e construo projetos com dedicação e criatividade.
-
----
-
-### 💼 Profissão: Estudante em Análise e Desenvolvimento de Sistemas  
-### 🧠 Skills em Construção:
-
-| Ferramenta       | Nível de Encantamento |
-|------------------|-----------------------|
-| Java             | 🟨 Em treinamento ⚒️  |
-| MySQL            | 🟩 Explorador de dados 📊 |
-| Power BI         | 🟦 Criando dashboards mágicos 🪄 |
-| Análise de Dados | 🟥 Minerando insights 🧠 |
+🧭 **Profissão:** Estudante de ADS com especialização em **Mineração de Dados** e **Domínio do Power BI**.  
+⚒️ **Ferramentas no inventário:** Java, MySQL, Power BI, Python, n8n.
 
 ---
 
-### 🗺️ Missão Atual
-> Aprender tecnologias e construir projetos que combinem análise, lógica e criatividade.  
+### 🛠️ Status do Aprendizado:
 
-🎯 Objetivo da fase:
-- Finalizar meus estudos em Java e SQL  
-- Criar dashboards interativos no Power BI  
-- Dominar a redstone da análise de dados 📡  
-
----
-
-### 📦 Inventário de Projetos
-- 🔧 Automatizações com n8n  
-- 📊 Dashboards para varejo (Grupo Pão de Açúcar)
-- 🤖 Bots e scripts com Python
+- 🟢 Java — Construindo estruturas lógicas robustas  
+- 🟡 MySQL — Consultando dados como quem cava diamante  
+- 🔵 Power BI — Transformando números em paisagens visuais  
+- 🔴 Análise de Dados — Descobrindo padrões escondidos como um arqueólogo digital  
 
 ---
 
-⛏️ Pronto para se juntar à aventura? Me acompanhe nessa jornada:
+### 🧾 Últimos Feitos:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-link/)
+📌 Desenvolvi automações que aumentaram as vendas em 33% para um e-commerce de varejo (Grupo Pão de Açúcar)  
+📌 Automatizei rotinas de coleta de feedback de clientes  
+📌 Criei dashboards interativos para análise de desempenho  
+
+---
+
+📫 Me envia um corvo (ou e-mail):  
+[LinkedIn](https://www.linkedin.com/in/seu-link/) | [GitHub](https://github.com/seu-user)
