@@ -1,12 +1,28 @@
+<h2 align="center">Matheus Jesus de Oliveira</h2>
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas com foco em Análise de Dados e Automação de Processos</p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWhlOTNpOWt0Mnd4Y3BsZHBhaHVtZzNzMWc5czM2dDQzMnE1bTA2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4OAxDXv4RdUeg38JYi/giphy.gif" alt="Matrix Tech GIF" width="700"/>
+  <i>Experiência em prospecção de clientes e projetos de gestão comercial.</i>
+</p>
+
+---
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>⭐ Total Stars</strong><br>1</td>
+    <td align="center"><strong>🟢 Commits em 2025</strong><br>97</td>
+    <td align="center"><strong>🔁 Pull Requests</strong><br>1</td>
+    <td align="center"><strong>🐛 Issues</strong><br>0</td>
+    <td align="center"><strong>📈 Contribuições (último ano)</strong><br>0</td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjoliveir&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MJOLIVEIR&show_icons=true&theme=gruvbox&hide_title=true&icon_color=00ff00&text_color=00ff00" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MJOLIVEIR&layout=compact&theme=gruvbox&langs_count=6&hide=html,css&text_color=00ff00&icon_color=00ff00" />
+  <a href="https://www.linkedin.com/in/matheus-jesus-de-oliveira-79a572306" target="_blank">🔗 LinkedIn</a>
 </p>
