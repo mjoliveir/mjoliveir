@@ -30,7 +30,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:181717&height=2&section=header" />
 
-### 💼 Estagiário Fullstack — SBM Technology *(Jan 2025 – atual)*
+### 💼 Desenvolvedor Fullstack — SBM Technology *(Jan 2025 – atual)*
 <sub>Sistema hospitalar corporativo de alta criticidade, em uso pela Rede D'Or</sub>
 
 | | |
